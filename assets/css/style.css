@@ -687,12 +687,13 @@ section {
   position: relative;
 }
 
+#he{
+  color: #ffb727 !important;
+}
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 16px;
   font-weight: 700;
-  text-transform: uppercase;
-  color: #ffb727;
   margin-bottom: 10px;
 }
 
